@@ -1,2 +1,3 @@
 # Simon-Game
- This project is a clone of the Spotify web player interface, created using HTML and CSS. The aim is to replicate the visual design and layout of Spotify without implementing the functional backend and JavaScript interactivity.
+This is a desktop-only implementation of the classic Simon Says game built using HTML, CSS, and JavaScript.
+
